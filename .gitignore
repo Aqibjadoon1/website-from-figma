@@ -4,3 +4,6 @@ dist
 *.local
 .superpowers
 CUsersjadoo*
+
+.vercel
+.env*

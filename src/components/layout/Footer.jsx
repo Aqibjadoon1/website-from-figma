@@ -74,11 +74,11 @@ export default function Footer() {
                 onChange={(e) => setEmail(e.target.value)}
                 placeholder="Email"
                 required
-                className="flex-1 h-14 px-6 rounded-2xl border-2 border-white bg-transparent text-white placeholder:text-gray-400 text-base outline-none focus:border-green transition-colors"
+                className="flex-1 h-16 px-6 rounded-2xl border-2 border-white bg-transparent text-white placeholder:text-gray-400 text-base outline-none focus:border-green transition-colors"
               />
               <button
                 type="submit"
-                className="h-14 px-8 rounded-2xl bg-green text-dark font-semibold text-base whitespace-nowrap hover:bg-lime-300 transition-colors cursor-pointer"
+                className="h-16 px-8 rounded-2xl bg-green text-dark font-semibold text-base whitespace-nowrap hover:bg-lime-300 transition-colors cursor-pointer"
               >
                 Subscribe to News
               </button>
