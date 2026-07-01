@@ -78,7 +78,7 @@ export default function Footer() {
               />
               <button
                 type="submit"
-                className="h-16 px-8 rounded-2xl bg-green text-dark font-semibold text-base whitespace-nowrap hover:bg-lime-300 transition-colors cursor-pointer"
+                className="h-32 px-8 rounded-2xl bg-green text-dark font-semibold text-lg whitespace-nowrap hover:bg-lime-300 transition-colors cursor-pointer"
               >
                 Subscribe to News
               </button>
